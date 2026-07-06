@@ -12,15 +12,16 @@
 ---
 
 ## 📖 Mục lục
-1. [Tính năng nổi bật](#-tính-năng-nổi-bật)
-2. [Kiến trúc & Luồng kỹ thuật mật mã](#-kiến-trúc--luồng-kỹ-thuật-mật-mã)
-3. [Công nghệ sử dụng](#-công-nghệ-sử-dụng)
-4. [Hướng dẫn cài đặt & Chạy dự án](#-hướng-dẫn-cài-đặt--chạy-dự-án)
-5. [Hướng dẫn chơi & Vận hành](#-hướng-dẫn-chơi--vận-hành)
-6. [Chi tiết 15 Màn chơi Chiến dịch](#-chi-tiết-15-màn-chơi-chiến-dịch)
-7. [Chi tiết 8 Thẻ phòng thủ & Use Case](#-chi-tiết-8-thẻ-phòng-thủ--use-case)
-8. [Giao diện ứng dụng thực tế](#-giao-diện-ứng dụng-thực-tế)
-9. [Cấu trúc thư mục dự án](#-cấu-trúc-thư-mục-dự-án)
+1. [Tính năng nổi bật](#tính-năng-nổi-bật)
+2. [Kiến trúc & Luồng kỹ thuật mật mã](#kiến-trúc--luồng-kỹ-thuật-mật-mã)
+3. [Công nghệ sử dụng](#công-nghệ-sử-dụng)
+4. [Hướng dẫn cài đặt & Chạy dự án](#hướng-dẫn-cài-đặt--chạy-dự-án)
+5. [Hướng dẫn chơi & Vận hành](#hướng-dẫn-chơi--vận-hành)
+6. [Chi tiết 15 Màn chơi Chiến dịch](#chi-tiết-15-màn-chơi-chiến-dịch)
+7. [Chi tiết 8 Thẻ phòng thủ & Use Case](#chi-tiết-8-thẻ-phòng-thủ--use-case)
+8. [Giao diện ứng dụng thực tế](#giao-diện-ứng-dụng-thực-tế)
+9. [Cấu trúc thư mục dự án](#cấu-trúc-thư-mục-dự-án)
+
 
 ---
 
